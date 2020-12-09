@@ -83,9 +83,9 @@ public class MainActivity extends AppCompatActivity {
         toolbar.setNavigationIcon(getResources().getDrawable(R.drawable.close));
         toolbar.setTitleTextColor(getResources().getColor(R.color.white));
         toolbar.setTitleMargin(0,0,0,0);
-        toolbar.setSubtitle("Flor SQLite CRUD ");
+        toolbar.setSubtitle("Carlos SQLite CRUD ");
         toolbar.setSubtitleTextColor(getResources().getColor(R.color.white));
-        toolbar.setTitle("Flor Díaz");
+        toolbar.setTitle("Carlos Estrada");
         setSupportActionBar(toolbar);
 
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
